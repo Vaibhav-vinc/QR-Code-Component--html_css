@@ -6,6 +6,7 @@
 *.fig
 
 # Avoid accidental XD upload if you convert the design file
+./design
 ###############################################
 ## Please do not remove line 12 - thanks! 🙂 ##
 ###############################################
